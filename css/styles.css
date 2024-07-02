@@ -15,3 +15,17 @@ h1 {
 #result .red {
   color: #e74c3c;
 }
+
+
+
+input, button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+#countdown {
+  font-size: 24px;
+  margin: 20px 0;
+}
+
